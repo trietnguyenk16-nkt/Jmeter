@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 500,
+    "errorCount" : 6,
+    "errorPct" : 1.2,
+    "meanResTime" : 6225.135999999998,
+    "medianResTime" : 5369.5,
+    "minResTime" : 4277.0,
+    "maxResTime" : 24307.0,
+    "pct1ResTime" : 8206.1,
+    "pct2ResTime" : 14060.19999999999,
+    "pct3ResTime" : 22812.750000000004,
+    "throughput" : 0.984422498385547,
+    "receivedKBytesPerSec" : 81.0835510752847,
+    "sentKBytesPerSec" : 2.4657168712296618
+  },
+  "POST Submit Survey" : {
+    "transaction" : "POST Submit Survey",
+    "sampleCount" : 500,
+    "errorCount" : 6,
+    "errorPct" : 1.2,
+    "meanResTime" : 6225.135999999998,
+    "medianResTime" : 5369.5,
+    "minResTime" : 4277.0,
+    "maxResTime" : 24307.0,
+    "pct1ResTime" : 8206.1,
+    "pct2ResTime" : 14060.19999999999,
+    "pct3ResTime" : 22812.750000000004,
+    "throughput" : 0.984422498385547,
+    "receivedKBytesPerSec" : 81.0835510752847,
+    "sentKBytesPerSec" : 2.4657168712296618
+  }
+}
